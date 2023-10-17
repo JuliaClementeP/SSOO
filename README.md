@@ -1,6 +1,7 @@
 # <center>UNIVERSIDAD DE ALCALÁ</center>
 ## <center>Departamento de Automática</center>
 ### <center>Grado en Ingeniería Informática</center>
+### <center>Grado en Informática y Administración de Empresas</center>
 
 $\ $
 
